@@ -1,0 +1,20 @@
+.center {
+  text-align: center;
+}
+.active {
+  text-align: center;
+  padding: 50px;
+  background-color: blueviolet;
+}
+.boder {
+  background-color: orangered;
+}
+.right2 {
+  padding: 10px 25px;
+  font-size: 15px;
+  display: inline-block;
+  color: white;
+  background-color: orange;
+  text-decoration: none;
+  border-radius: 4px;
+}
